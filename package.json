@@ -1,0 +1,22 @@
+{
+  "name": "set-ops",
+  "version": "1.0.0",
+  "description": "Create a js appication to preform common set operatins for integer sets such as union, intersection and difference.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node SetOp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winthropuniversity-besmer/set-ops-AnthonyG-24.git"
+  },
+  "keywords": [
+    "set-op"
+  ],
+  "author": "Anthony Gillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winthropuniversity-besmer/set-ops-AnthonyG-24/issues"
+  },
+  "homepage": "https://github.com/winthropuniversity-besmer/set-ops-AnthonyG-24#readme"
+}
